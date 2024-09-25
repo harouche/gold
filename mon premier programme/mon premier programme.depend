@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727175503 source:c:\users\ycode\desktop\langage c\mon premier programme\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
